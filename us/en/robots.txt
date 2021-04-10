@@ -1,0 +1,23 @@
+#
+#       o     O
+#     __|_____|___
+#    |    --      |
+#    |  ( o )   ( o )
+#  { |        /   |
+#    |     [wwww]  < *Exterminate all humans.txt* )
+#    [____________|
+#       |   |              /Vvvv/
+#  _____|___|____          |___/
+# /______________\_________/   |
+# |              |             /
+# | ( / )  ( + ) |__|__|__|_|_/
+# |              |
+# | [ -vV--vV-]  |
+# |              |
+# |______________/
+#
+User-agent: *
+Disallow: /referral/
+Disallow: /user/
+Disallow: /subscriptions/
+Sitemap: http://127.0.0.1/sitemap.xml
